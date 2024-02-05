@@ -1,6 +1,7 @@
 ##Overview:
-This Python program facilitates file sharing between a server and clients.
+This Python program simulates file sharing between a server and clients.
 The server can share files, and clients can download them.
+The program contains educational content and some notes regarding the protocols of the network.
 The program also includes a feedback feature for users.
 
 ###Note
