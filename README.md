@@ -31,10 +31,3 @@ To view the downloaded files and their sizes, enter 'display' when prompted.
 When prompted, enter 'y' to rate the program.
 Your feedback is important for improvement.
 
-##Contact us via:
-
-Youssef  Mohammad  -  s-youssef.hameid@zewailcity.edu.eg 
-
-Mohamed  Mourad  -  s-mohamed.mmagdy@zewailcity.edu.eg 
-
-Mohammad El Sherbini  -  s-mohammed.barakat@zewailcity.edu.eg
