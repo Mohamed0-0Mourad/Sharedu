@@ -33,6 +33,8 @@ Your feedback is important for improvement.
 
 ##Contact us via:
 
-Youssef  Mohammad  -  s-youssef.hameid@zewailcity.edu.eg - @+DEVOLOPER-1
-Mohamed  Mourad  -  s-mohamed.mmagdy@zewailcity.edu.eg - @+Mohamed0-0Mourad 
+Youssef  Mohammad  -  s-youssef.hameid@zewailcity.edu.eg 
+
+Mohamed  Mourad  -  s-mohamed.mmagdy@zewailcity.edu.eg 
+
 Mohammad El Sherbini  -  s-mohammed.barakat@zewailcity.edu.eg
