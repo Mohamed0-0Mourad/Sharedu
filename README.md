@@ -11,7 +11,7 @@ receive files in it. For example: Downloads
 ## Usage:
 
 ### Choose mode:
-### #mode 1: Server Script
+### mode 1: Server Script
 1.Run the server script
 2.Enter a server name and save it for sharing.
 3.Follow the instructions to share files.
